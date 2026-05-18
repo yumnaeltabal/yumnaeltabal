@@ -11,17 +11,6 @@ I enjoy creating practical applications, solving problems through code, and cont
 🛠 Experience with backend development, databases, and version control
 🎯 Interested in full stack, backend, and frontend development roles
 📍 Open to internship and junior developer opportunities
-🧰 Tech Stack
-Languages & Technologies
-
-
-
-
-
-
-
-
-
 
 📌 Current Project
 🎵 Record Shop Application
